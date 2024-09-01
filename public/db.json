@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "5006",
+      "firstName": "soham",
+      "lastName": "shinde",
+      "email": "soham@gmail.com",
+      "password": "shinde",
+      "address": "solapur",
+      "mobile": "9881629343"
+    }
+  ]
+}
